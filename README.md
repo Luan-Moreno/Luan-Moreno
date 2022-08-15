@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Luan-Moreno
 - 👀 I’m interested in ... Python, Data Science, Machine Learning, AI
-- 🌱 I’m currently learning ... Python(Data Science), C++ and Javascript (Base + React + Node/MongoDB)
+- 🌱 I’m currently learning ... Python(Data Science), C++ and Javascript (React + Node/MongoDB)
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... E-mail / Linkedin
 
