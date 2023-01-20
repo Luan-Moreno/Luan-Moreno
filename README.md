@@ -2,4 +2,4 @@
 
 > # Atualmente estudo: Engenharia de Dados e Data Science 
 > (Apache, PostgreSQL, Pandas, Estatística)
-> Tenho conhecimentos em: HTML, CSS(Flexbox/Grid), Javascript, Python, Java e C.
+> # Tenho conhecimentos em: HTML, CSS(Flexbox/Grid), Javascript, Python, Java e C.
