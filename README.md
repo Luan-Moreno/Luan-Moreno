@@ -1,4 +1,4 @@
-## Bem-vindos, meu nome é Luan Moreno e eu sou estudante de Ciência da Computação.
+## Bem-vindos, eu sou Luan Moreno e estudante de Ciência da Computação.
 
-> # Atualmente estudo: C, Linux & ROS2
-> Tenho conhecimentos em: HTML, CSS(+Flexbox e Grid), Javascript, Python, Java e C.
+> # Atualmente estudo: Engenharia de Dados, Banco de Dados e Data Science (Apache, PostgreSQL, Pandas, Estatística)
+> Tenho conhecimentos em: HTML, CSS(Flexbox/Grid), Javascript, Python, Java e C.
