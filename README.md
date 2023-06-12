@@ -1,5 +1,7 @@
 ### Olá! Eu sou Luan Moreno e estudante de Ciência da Computação 👨‍💻
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luan-moreno&layout=pie)](https://github.com/anuraghazra/github-readme-stats&theme=transparent)
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luan-moreno&theme=transparent&show_icons=true)
 
 ## Tecnologias que uso
