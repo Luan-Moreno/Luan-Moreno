@@ -3,7 +3,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luan-moreno&theme=transparent&show_icons=true&rank_icon=github)
 
 [![Social](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luan-moreno/)
-## Tecnologias que uso
+## Tecnologias que utilizo
 
 [![Skills](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=black)]()
 ![Numpy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
