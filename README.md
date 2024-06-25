@@ -1,8 +1,6 @@
 ### Olá! Eu sou Luan Moreno, Cientista de Dados e Estudante de Ciência da Computação 👨‍💻
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luan-moreno&theme=algolia&show_icons=true&rank_icon=github)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luan-moreno)](https://github.com/anuraghazra/github-readme-stats)
-
 
 
 [![Social](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luan-moreno/)
