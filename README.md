@@ -1,4 +1,4 @@
-### Olá! Eu sou Luan Moreno, Cientista da Computação e Estudante de Ciência de Dados 👨‍💻
+### Olá! Eu sou Luan Moreno, Analista/Cientista de Dados e Estudante de Ciência da Computação 👨‍💻
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luan-moreno&theme=algolia&show_icons=true&rank_icon=github)
 
