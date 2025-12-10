@@ -1,26 +1,63 @@
-#### Olá! Eu sou Luan Moreno, Desenvolvedor de Jogos e Estudante de Ciência da Computação 👨‍💻
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Olá,+mundo!👋;+Eu+sou+Luan+Moreno!" />
+</h1>
 
-![](https://github-readme-stats.vercel.app/api?username=luan-moreno&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=luan-moreno&theme=shadow_blue&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=luan-moreno&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+<h3 align="center">Desenvolvedor apaixonado por tecnologia e criação de jogos 🎮</h3>
 
-# 💻 Tecnologias que utilizo
-![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) 
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+<br/>
+
+<div align="center">
+
+🎯 Atualmente transformando ideias em jogos com **Unity e C#**
+ 
+📚 Aprendendo mais sobre **C++, IA e Desenvolvimento de Sistemas**
+
+💬 Gosto de trocar experiências sobre tudo que envolva game dev
+
+⚡ Fun fact: **Provavelmente estou programando alguma coisa às 3 da manhã**
+
+</div>
+
+<!-- Redes -->
+<div align="center"> 
+  <a href="https://lupedev.itch.io" target="_blank">
+    <img src="https://img.shields.io/badge/Itch.io-333333?style=for-the-badge&logo=itch.io&logoColor=red" />
+  </a>
+  <a href="https://linkedin.com/in/luan-moreno" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</div>
+
+---
+
+<h2 align="center">Tecnologias</h2>
+<br/>
+
+<div align="center">
+    <h3 align="center">Principais</h3>
+    <img height="60" src="https://skillicons.dev/icons?i=unity" />
+    <img height="60" src="https://skillicons.dev/icons?i=cs" />
+    <img height="60" src="https://skillicons.dev/icons?i=unreal" />
+    <img height="60" src="https://skillicons.dev/icons?i=cpp" />
+    <br>
+    <h3 align="center">Complementares</h3>
+    <img height="45" src="https://skillicons.dev/icons?i=ps" />
+    <img height="45" src="https://skillicons.dev/icons?i=blender" />
+    <img height="45" src="https://skillicons.dev/icons?i=python" />
+    <img height="45" src="https://skillicons.dev/icons?i=javascript" />
+    <img height="45" src="https://skillicons.dev/icons?i=gcp" />
+</div>
+
+<br/>
+
+---
+<h2 align="center">Estatísticas</h2>
 <br>
-![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white) 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
-<br>
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) 
-![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) 
-<br>
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) 
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
-
-
-
+<div align=center>
+  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=luan-moreno&theme=react&border_radius=10" />
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=luan-moreno&show_icons=true&theme=react&rank_icon=github&border_radius=10" />
+  <br/>
+</div>
 
 
 
