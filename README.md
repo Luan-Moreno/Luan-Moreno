@@ -1,8 +1,8 @@
 #### Olá! Eu sou Luan Moreno, Desenvolvedor de Jogos e Estudante de Ciência da Computação 👨‍💻
 
-![](https://github-readme-stats.vercel.app/api?username=luan-moreno&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=luan-moreno&theme=shadow_blue&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=luan-moreno&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=luan-moreno&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=luan-moreno&theme=shadow_blue&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=luan-moreno&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 # 💻 Tecnologias que utilizo
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) 
