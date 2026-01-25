@@ -14,8 +14,6 @@
 
 💬 Gosto de trocar experiências sobre tudo que envolva game dev
 
-⚡ Fun fact: **Provavelmente estou programando alguma coisa às 3 da manhã**
-
 </div>
 
 <!-- Redes -->
