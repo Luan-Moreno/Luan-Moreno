@@ -2,7 +2,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=650&height=70&duration=4000&lines=Olá,+mundo!👋;+Eu+sou+Luan+Moreno!;Analista+de+Dados" />
 </h1>
 
-<h3 align="center">Analista de Dados com foco em análise, visualização e tomada de decisão 📊</h3>
+<h3 align="center">Analista de Dados com foco em análise, visualização e tomada de decisão</h3>
 
 <br/>
 
