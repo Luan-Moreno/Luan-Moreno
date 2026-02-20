@@ -34,7 +34,6 @@
     <img height="60" src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=microsoft-power-bi&logoColor=black" />
     <br>
     <h3 align="center">Complementares</h3>
-    
     <img height="45" src="https://img.shields.io/badge/Estat%C3%ADstica-6C63FF?style=for-the-badge&logo=gnuplot&logoColor=white" />
     <img height="45" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </div>
