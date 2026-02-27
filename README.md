@@ -10,7 +10,7 @@
 
 🎯 Atuação com **análise de dados, dashboards e geração de insights de negócio**  
 
-📚 Forte base em **Python, Excel, Power BI e Estatística**  
+📚 Forte base em **SQL, Power BI, Python e Estatística**  
 
 💬 Gosto de conversar sobre **dados, automação e aplicações de IA**  
 
