@@ -12,7 +12,7 @@
 
 📚 Forte base em **SQL, Power BI, Python e Estatística**  
 
-💬 Gosto de conversar sobre **dados, automação e aplicações de IA**  
+💬 Gosto de conversar sobre **automação e aplicações de IA**  
 
 </div>
 
