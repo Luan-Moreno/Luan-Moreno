@@ -1,5 +1,8 @@
+<h3 align="center">
+  Transformo dados desconexos em decisões estratégicas.
+</h3>
 <p align="center">
-  Analista de Dados formado em Ciência da Computação. <br> Desenvolvo <strong>dashboards executivos em Power BI</strong>, pipelines com <strong>Python e SQL</strong> e automações que eliminam trabalho manual.
+  Trabalho com <strong>Python</strong>, <strong>SQL</strong>, <strong>Excel</strong> e <strong>Power BI</strong> para construir pipelines, analisar dados e entregar dashboards executivos.
 </p>
 
 ---
@@ -21,8 +24,8 @@
 <h3 align="center">Visualização</h3>
 <p align="center">
     <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-    <img src="https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white" />
     <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+    <img src="https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white" />
 </p>
 
 ---
