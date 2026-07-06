@@ -1,5 +1,5 @@
 <h3 align="center">
-  Transformo dados desconexos em decisões estratégicas.
+  Transformo dados em decisões estratégicas.
 </h3>
 <p align="center">
   Trabalho com <strong>Python</strong>, <strong>SQL</strong>, <strong>Excel</strong> e <strong>Power BI</strong> para construir pipelines, analisar dados e entregar dashboards executivos.
