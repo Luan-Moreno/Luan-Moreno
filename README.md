@@ -37,7 +37,7 @@
   <a href="mailto:luanpmoreno@outlook.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://luan-moreno.github.io/" target="_blank">
+  <!-- <a href="https://luan-moreno.github.io/" target="_blank">
     <img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=githubpages&logoColor=white"/>
-  </a>
+  </a> -->
 </p>
